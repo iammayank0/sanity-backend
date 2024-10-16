@@ -7,8 +7,8 @@ export default defineConfig({
   name: 'default',
   title: 'Dental Design',
 
-  projectId: 'ajfd8vni',
-  dataset: 'production',
+  projectId: 'icbur4is',
+  dataset: 'database',
 
   plugins: [structureTool(), visionTool()],
 
